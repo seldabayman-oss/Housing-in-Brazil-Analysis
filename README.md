@@ -1,4 +1,5 @@
-Housing_in_Brazil_Analysis
+## Housing in Brazil Analysis
+
 In this project, you'll work with a dataset of homes for sale in Brazil. About Dataset The property listings dataset contains information about real estate properties available for sale or rent in Brazil. It includes details such as property type (apartment, house, commercial property), location (city, neighborhood), size (square footage, number of rooms), price, amenities, and contact information for the property owner or real estate agent. This dataset can be used for market analysis, property valuation, and identifying trends in the real estate market.
 
 Sales and Rental Prices Dataset: The sales and rental prices dataset provides information about the prices of real estate properties in Brazil. It includes data on property transactions, including sale prices and rental prices per square meter or per month. This dataset can be used to analyze price trends, compare property prices across different regions, and identify areas with high or low real estate market demand.
